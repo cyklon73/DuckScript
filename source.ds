@@ -1,4 +1,0 @@
-Window.create();
-Window.setSize(600, 600);
-Window.setResizable(false);
-~Window.setTitle("AC Stinkt!!!");
