@@ -1,0 +1,5 @@
+Window.create();
+Window.setTitle("AC Stinkt");
+Window.setResizable(false);
+Window.setSize(400, 400);
+Window.setIcon("C:\Users\cyklo\Pictures\ArtusPB.png");
